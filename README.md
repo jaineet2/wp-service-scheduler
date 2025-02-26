@@ -1,3 +1,5 @@
+Here is the content of the `README.md` file for the repository `wp-service-scheduler`:
+
 # wp-service-scheduler
 
 ## Description
@@ -27,3 +29,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 This project is licensed under the MIT License.
+
+You can view the file directly [here](https://github.com/jaineet2/wp-service-scheduler/blob/b15ebb57cfabb9e87931cb8a4743f6207fc6ff07/README.md).
