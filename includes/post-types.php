@@ -51,3 +51,4 @@ function sms_register_post_types() {
     ]);
 }
 add_action('init', 'sms_register_post_types');
+
